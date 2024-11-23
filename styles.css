@@ -66,12 +66,13 @@
   float: left;
 }
 .menu ul li a{
-  /* display: block; */
   text-decoration: none;
   font-family: Lato;
   font-size: 14px;
-  color: #cd2e2e;
+  color: #FFFFFFFF;
   line-height: 20px;
+  padding-left: 47px;
+  padding-right: 46px;
 }
 * {
   margin: 0;
