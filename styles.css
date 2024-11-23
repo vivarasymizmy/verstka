@@ -24,12 +24,12 @@
 }
 .myheader > nav ul li{
   float: left;
-}
-* {
   font-family: Lato;
   font-size: 14px;
   color: #FFFFFF;
   line-height: 20px;
+}
+* {
   margin: 0;
   padding: 0;
   width: 1366px;
