@@ -63,7 +63,7 @@
   
 }
 .menu ul li{
-  float: left;
+  display: inline;
   margin-left: 0px;
 }
 .menu ul li a{
