@@ -64,6 +64,7 @@
   float: left;
 }
 .menu ul li a{
+  display: block;
   text-decoration: none;
   font-family: Lato;
   font-size: 14px;
