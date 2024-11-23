@@ -63,7 +63,7 @@
   
 }
 .menu ul li{
-  /* flex: 1; */
+  float: left;
 }
 .menu ul li a{
   display: block;
