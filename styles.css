@@ -134,6 +134,10 @@
   border-radius: 10px; 
   overflow: hidden;
 }
+.firsttable td{
+  background-color:  #FFFFFF;
+  border-bottom: 1px solid #D9DADB;
+}
 .firsttable td > p{
   width: 263px;
   margin-left: 25px;
@@ -153,23 +157,14 @@
   line-height: 20px;
   text-align: left;
   color: #5D5FEF;
-  background-color:  #FFFFFF;
-  border-bottom: 1px solid #D9DADB;
 }
+
 .tabl12{
   background-color:  #F5F5F5;
-  border-bottom: 1px solid #D9DADB;
 }
-.tabl12{
-  background-color:  #F5F5F5;
-  border-bottom: 1px solid #D9DADB;
-}
-.tab1{
-  background-color:  #FFFFFF;
-  border-bottom: 1px solid #D9DADB;
-}
+
 .tab16{
-  background-color:  #FFFFFF;
+  border-bottom: none;
 }
 
 
