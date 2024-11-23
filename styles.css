@@ -74,11 +74,11 @@
   line-height: 20px;
 }
 .menu ul li:nth-child(odd) {
-  margin-right: 46px; /* Отступ для нечетных элементов */
+  margin-right: 46px;
 }
 
 .menu ul li:nth-child(even) {
-  margin-right: 47px; /* Отступ для четных элементов */
+  margin-right: 47px; 
 }
 
 .medium{
@@ -98,7 +98,7 @@
   margin-right: 113px;
 }
 .medium ul li{
-  display: inline-block;
+  display: flex;
   width:284px;
   margin-left: 25px;
   text-align: left;
