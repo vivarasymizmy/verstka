@@ -19,11 +19,11 @@
  .NY{
   white-space: nowrap;
   width: 203px;
-  margin-left: 115px;
+  margin-left: 15px;
   padding-top: 83px;
 }
 .Boston{
-  margin-left: 333px;
+  margin-left: 130px;
   padding-top: 73px;
   width: 184px;
   height: 40px;
@@ -31,20 +31,20 @@
 .date{
   white-space: nowrap;
   width: 370px;
-  margin-left: 370px;
+  margin-left: 186px;
   padding-top: 83px;
 }
 .sun{
   margin-left: 218px;
-  padding-top: 83px;
+  padding-top: 23px;
   width: 20px;
   height: 20px;
 }
  .temp{
   width: 44px;
   white-space: nowrap;
-  margin-left: 30px;
-  margin-right: 113px;
+  margin-left: 10px;
+  /* margin-right: 113px; */
   padding-top: 83px;
 }
 
