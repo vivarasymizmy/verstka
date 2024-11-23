@@ -1,5 +1,6 @@
 .myheader {
   display: flex;
+  flex-direction: column;
   height: 190px;
   background-color: #ffffff;
 }
@@ -11,8 +12,7 @@
   line-height: 20px;
 }
 .myheader > nav{
-  margin-top: 152px;
-  margin-left: -2000px;
+  margin-top: auto;
   height: 45px;
   background-color:  #5D5FEF;
 }
