@@ -1,6 +1,6 @@
 .myheader {
   display: flex;
-  height: 190px;
+  height: 135px;
   background-color: #ffffff;
 }
 
@@ -10,13 +10,11 @@
   color: #4B5157;
   line-height: 20px;
 }
-.myheader > nav{
-  margin-top: 152px;
-  margin-left: -1366px;
+ .menu{
   height: 45px;
   background-color:  #5D5FEF;
 }
-.myheader > nav ul{
+.menu ul{
   list-style-type: none; 
   margin: 0;
   padding: 0;
@@ -25,7 +23,7 @@
   font-size: 14px;
   color: #FFFFFF;
 }
-.myheader > nav ul li{
+.menu ul li{
   float: left;
   line-height: 20px;
 }
