@@ -104,7 +104,12 @@
   font-size: 16px;
   line-height: 25px;
   color: #FFFFFF;
+  border-right: 1px solid #4B5157;
 }
+.medium ul li:last-child{
+  border-right: none;
+}
+
 .medium ul li img{
   width: 65px;
   height: 65px;
