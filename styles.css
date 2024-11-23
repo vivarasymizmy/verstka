@@ -80,6 +80,11 @@
 .menu ul li:nth-child(even) {
   margin-right: 47px; /* Отступ для четных элементов */
 }
+
+.medium{
+  height: 475px;
+  background-color:  #5D5FEF;
+}
 * {
   margin: 0;
   padding: 0;
