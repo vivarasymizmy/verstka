@@ -89,7 +89,7 @@
 .medium ul{
   list-style-type: none;
   display: flex;
-  justify-content:space-between;
+  /* justify-content:space-between; */
   background-color:  #30363D;
   width: 1140px;
   height: 130px;
