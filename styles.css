@@ -99,6 +99,7 @@
 }
 .medium ul li{
   display: inline;
+  text-align: left;
   font-family: Roboto Slab;
   font-size: 16px;
   line-height: 25px;
