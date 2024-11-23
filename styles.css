@@ -64,6 +64,7 @@
 }
 .menu ul li{
   display: inline;
+  white-space: nowrap;
   margin-left: 0px;
 }
 .menu ul li a{
