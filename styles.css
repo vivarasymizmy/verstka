@@ -150,17 +150,12 @@
   color:  #4B5157;
 }
 .tab11{
-  padding-left:  25px;
   width: 263px;
   height: 75px;
-  font-family: Lato;
-  font-size: 16px;
-  font-weight: bold;
-  line-height: 20px;
-  text-align: left;
-  color: #5D5FEF;
 }
-
+.tbhd{
+  width: 213px;
+}
 .tabl12{
   background-color:  #F5F5F5;
 }
