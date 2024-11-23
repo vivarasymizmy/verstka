@@ -11,14 +11,23 @@
   line-height: 20px;
 }
 .myheader > nav{
+  padding-top: 152px;
+  background-color:  #5D5FEF;
+}
+.myheader > nav ul{
+  list-style-type: none; 
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+.myheader > nav ul li{
+  float: left;
+}
+* {
   font-family: Lato;
   font-size: 14px;
   color: #FFFFFF;
   line-height: 20px;
-  padding-top: 152px;
-  background-color:  #5D5FEF;
-}
-* {
   margin: 0;
   padding: 0;
   width: 1366px;
