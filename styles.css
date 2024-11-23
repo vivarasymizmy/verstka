@@ -67,6 +67,7 @@
 }
 .menu ul li a{
   display: block;
+  padding: 47px 46px;
   text-decoration: none;
   font-family: Lato;
   font-size: 14px;
