@@ -13,6 +13,8 @@
 .free{
   margin-left: 143px;
   padding-top: 51px;
+  width: 100px;
+  height: 84px;
 }
  .NY{
   white-space: nowrap;
@@ -23,6 +25,8 @@
 .Boston{
   margin-left: 333px;
   padding-top: 73px;
+  width: 184px;
+  height: 40px;
 }
 .date{
   white-space: nowrap;
@@ -33,6 +37,8 @@
 .sun{
   margin-left: 218px;
   padding-top: 83px;
+  width: 20px;
+  height: 20px;
 }
  .temp{
   width: 44px;
