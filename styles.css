@@ -54,7 +54,6 @@
   background-color:  #5D5FEF;
 }
 .menu ul{
-  display: flex;
   list-style-type: none; 
   overflow: hidden;
   padding-top: 17px;
