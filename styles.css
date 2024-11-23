@@ -120,6 +120,14 @@
   margin-left: 15px;
   margin-right: 25px;
 }
+
+.firsttable{
+  margin-left: 113px;
+  border: 1px solid #D9DADB;
+  border-radius: 10px; 
+  overflow: hidden;
+}
+
 * {
   margin: 0;
   padding: 0;
