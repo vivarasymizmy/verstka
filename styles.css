@@ -108,12 +108,22 @@
   font-size: 16px;
   line-height: 25px;
   color: #FFFFFF;
-  border-right: 1px solid #4B5157;
-}
-.medium ul li:last-child{
-  border-right: none;
+  /* border-right: 1px solid #4B5157; */
 }
 
+li::after {
+  content: ''; /* Содержимое псевдоэлемента */
+  position: absolute;
+  top: 0;
+  right: 0;
+  height: 5px; /* Заданная высота границы */
+  width: 1px; /* Ширина границы */
+  background-color:#4B5157; /* Цвет границы */
+}
+
+li:last-child::after {
+  display: none; /* Убираем границу у последнего элемента */
+}
 .medium ul li img{
   width: 65px;
   height: 65px;
