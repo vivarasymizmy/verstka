@@ -85,6 +85,28 @@
   height: 475px;
   background-color:  #5D5FEF;
 }
+.songs{
+  background-color:  #30363D;
+  width: 1140px;
+  height: 130px;
+  gap: 0px;
+  border-radius: 10px 0px 0px 0px;
+  opacity: 0px;
+  margin-left: 113px;
+  margin-top: 30px;
+  margin-left: 113px;
+}
+.songs li{
+  display: inline;
+  padding-top: 25px;
+  font-family: Roboto Slab;
+  font-size: 16px;
+  line-height: 25px;
+  text-align: left;
+  text-underline-position: from-font;
+  text-decoration-skip-ink: none;
+  color: #FFFFFF;
+}
 * {
   margin: 0;
   padding: 0;
