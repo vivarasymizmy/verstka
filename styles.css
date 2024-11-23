@@ -48,10 +48,11 @@
   padding-top: 83px;
 }
 .play{
+  display: inline-block;
   width: 20px;
   height:20px;
-  float: right;
-  margin-left: -10px;
+  /* float: right;
+  margin-left: -10px; */
 }
 
  .menu{
