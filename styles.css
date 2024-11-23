@@ -47,7 +47,10 @@
   /* margin-right: 113px; */
   padding-top: 83px;
 }
-
+.play{
+  width: 20px;
+  height:20px;
+}
 
  .menu{
   height: 45px;
@@ -141,7 +144,7 @@
 }
 .tabl12{
 
-  
+
 }
 .mount{
   width: 877px; 
