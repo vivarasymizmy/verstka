@@ -17,32 +17,32 @@
   width: 1366px;
 }
 .free{
-  padding-left: 143px;
+  margin-left: 143px;
   padding-top: 51px;
 }
  .NY{
   white-space: nowrap;
   width: 203px;
-  padding-left: 258px;
+  margin-left: 258px;
   padding-top: 83px;
 }
 .Boston{
-  padding-left: 591px;
+  margin-left: 591px;
   padding-top: 73px;
 }
 .date{
   white-space: nowrap;
   width: 195px;
-  padding-left: 961px;
+  margin-left: 961px;
   padding-top: 83px;
 }
 .sun{
-  padding-left: 1179px;
+  margin-left: 1179px;
   padding-top: 83px;
 }
  .temp{
   width: 44px;
   white-space: nowrap;
-  padding-left: 1209px;
+  margin-left: 1209px;
   padding-top: 83px;
 }
