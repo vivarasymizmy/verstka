@@ -112,7 +112,7 @@
 }
 
 li::after {
-  content: ''; /* Содержимое псевдоэлемента */
+  content: '|'; /* Содержимое псевдоэлемента */
   position: absolute;
   top: 0;
   right: 0;
