@@ -20,7 +20,7 @@
   padding-left: 143px;
   padding-top: 51px;
 }
-.NY{
+.myheader > p .NY{
   width: 203px;
   padding-left: 258px;
   padding-top: 83px;
@@ -29,7 +29,7 @@
   padding-left: 591px;
   padding-top: 73px;
 }
-.date{
+.myheader > p .date{
   padding-left: 961px;
   padding-top: 83px;
 }
@@ -37,7 +37,7 @@
   padding-left: 1179px;
   padding-top: 83px;
 }
-.temp{
+.myheader > p .temp{
   padding-left: 1209px;
   padding-top: 83px;
 }
