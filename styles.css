@@ -32,6 +32,7 @@
 }
 .date{
   white-space: nowrap;
+  width: 195px;
   padding-left: 961px;
   padding-top: 83px;
 }
@@ -40,6 +41,7 @@
   padding-top: 83px;
 }
  .temp{
+  width: 44px;
   white-space: nowrap;
   padding-left: 1209px;
   padding-top: 83px;
