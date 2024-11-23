@@ -52,18 +52,19 @@
  .menu{
   height: 45px;
   background-color:  #5D5FEF;
-  padding-top: 17px;
-  margin-left: 113px;
-  margin-right: 116px;
 }
 .menu ul{
   display: flex;
   list-style-type: none; 
   overflow: hidden;
+  padding-top: 17px;
+  margin-left: 113px;
+  margin-right: 116px;
   
 }
 .menu ul li{
   float: left;
+  margin-left: 0px;
 }
 .menu ul li a{
   text-decoration: none;
