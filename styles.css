@@ -118,7 +118,7 @@ li::after {
   right: 0;
   height: 75px; /* Заданная высота границы */
   width: 1px; /* Ширина границы */
-  background-color:#4B5157; /* Цвет границы */
+  background-color: #e00037; /* Цвет границы */
 }
 
 li:last-child::after {
