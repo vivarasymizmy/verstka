@@ -170,8 +170,22 @@
 }
 
 
+.food{
+  color: #3BBDC4;
 
-
+}
+.cars{
+  color:  #6E99AE;
+}
+.movies{
+  color:  #AC8EE3;
+}
+.nfl{
+  color:  #FFA34D;
+}
+.tech{
+  color: #3DC47E;
+}
 .mount{
   width: 877px; 
   height: 570px;
