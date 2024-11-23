@@ -116,7 +116,7 @@ li::after {
   position: absolute;
   top: 0;
   right: 0;
-  height: 5px; /* Заданная высота границы */
+  height: 75px; /* Заданная высота границы */
   width: 1px; /* Ширина границы */
   background-color:#4B5157; /* Цвет границы */
 }
