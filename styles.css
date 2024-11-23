@@ -52,13 +52,13 @@
  .menu{
   height: 45px;
   background-color:  #5D5FEF;
+  padding-top: 17px;
+  margin-left: 113px;
+  margin-right: 116px;
 }
 .menu ul{
   display: flex;
   list-style-type: none; 
-  padding-top: 17px;
-  margin-left: 113px;
-  margin-right: 116px;
   overflow: hidden;
   
 }
