@@ -131,7 +131,18 @@
   overflow: hidden;
 }
 
+.tab11{
+  font-family: Lato;
+  font-size: 14px;
+  line-height: 20px;
+  letter-spacing: 0.5px;
+  text-align: left;
+  color: #5D5FEF;
+}
+.tabl12{
 
+  
+}
 .mount{
   width: 877px; 
   height: 570px;
