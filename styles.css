@@ -71,7 +71,13 @@
   font-size: 14px;
   color: #FFFFFFFF;
   line-height: 20px;
-  margin-bottom: 46px;
+}
+.menu ul li:nth-child(odd) {
+  margin-right: 46px; /* Отступ для нечетных элементов */
+}
+
+.menu ul li:nth-child(even) {
+  margin-right: 47px; /* Отступ для четных элементов */
 }
 * {
   margin: 0;
