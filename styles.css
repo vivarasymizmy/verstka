@@ -85,18 +85,18 @@
   height: 475px;
   background-color:  #5D5FEF;
 }
-.songs{
+.medium ul{
   background-color:  #30363D;
   width: 1140px;
   height: 130px;
   gap: 0px;
-  border-radius: 10px 0px 0px 0px;
+  border-radius: 10px;
   opacity: 0px;
   margin-left: 113px;
   margin-top: 30px;
   margin-left: 113px;
 }
-.songs li{
+.medium ul li{
   display: inline;
   padding-top: 25px;
   font-family: Roboto Slab;
