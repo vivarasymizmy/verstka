@@ -136,6 +136,13 @@
 }
 .firsttable td > p{
   width: 263px;
+  margin-left: 25px;
+  font-family: Lato;
+  font-size: 14px;
+  font-weight: bold;
+  line-height: 20px;
+  text-align: left;
+  color:  #4B5157;
 }
 .tab11{
   width: 263px;
@@ -144,7 +151,7 @@
   font-size: 14px;
   font-weight: bold;
   line-height: 20px;
-  text-align: center;
+  text-align: left;
   color: #5D5FEF;
   background-color:  #FFFFFF;
   border-bottom: 1px solid #D9DADB;
@@ -165,15 +172,7 @@
   background-color:  #FFFFFF;
 }
 
-.tdtext{
-  margin-left: 25px;
-  font-family: Lato;
-  font-size: 14px;
-  font-weight: bold;
-  line-height: 20px;
-  text-align: left;
-  color:  #4B5157;
-}
+
 
 
 .mount{
