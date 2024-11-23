@@ -87,6 +87,7 @@
   padding-top: 30px;
 }
 .medium ul{
+  display: flex;
   list-style-type: none;
   background-color:  #30363D;
   width: 1140px;
