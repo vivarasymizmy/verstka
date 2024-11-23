@@ -50,7 +50,7 @@
 .play{
   width: 20px;
   height:20px;
-  margin-top: 2px;
+  margin-top: 10px;
 }
 
  .menu{
@@ -97,9 +97,7 @@
   background-color:  #30363D;
   width: 1140px;
   height: 130px;
-  gap: 0px;
   border-radius: 10px;
-  opacity: 0px;
   margin-left: 113px;
   padding-top: 25px;
   margin-right: 113px;
