@@ -87,9 +87,7 @@
   padding-top: 30px;
 }
 .medium ul{
-  /* list-style-type: none; */
-  display: flex;
-  /* justify-content:space-between; */
+  list-style-type: none;
   background-color:  #30363D;
   width: 1140px;
   height: 130px;
@@ -101,7 +99,7 @@
   margin-right: 113px;
 }
 .medium ul li{
-  /* display: inline-block; */
+  display: flex;
   width:259px;
   margin-left: 25px;
   text-align: left;
