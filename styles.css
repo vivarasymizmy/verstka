@@ -146,9 +146,31 @@
   border-bottom: 1px solid #D9DADB;
 }
 .tabl12{
-
-
+  background-color:  #F5F5F5;
+  border-bottom: 1px solid #D9DADB;
 }
+.tabl12{
+  background-color:  #F5F5F5;
+  border-bottom: 1px solid #D9DADB;
+}
+.tab1{
+  background-color:  #FFFFFF;
+  border-bottom: 1px solid #D9DADB;
+}
+.tab16{
+  background-color:  #FFFFFF;
+}
+
+.tdtext{
+  font-family: Lato;
+  font-size: 14px;
+  font-weight: bold;
+  line-height: 20px;
+  text-align: center;
+  color:  #4B5157;
+}
+
+
 .mount{
   width: 877px; 
   height: 570px;
