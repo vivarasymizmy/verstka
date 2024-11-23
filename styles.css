@@ -101,7 +101,7 @@
   margin-right: 113px;
 }
 .medium ul li{
-  display: inline-block;
+  /* display: inline-block; */
   width:259px;
   margin-left: 25px;
   text-align: left;
