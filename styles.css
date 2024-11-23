@@ -103,8 +103,12 @@
   font-family: Roboto Slab;
   font-size: 16px;
   line-height: 25px;
- 
   color: #FFFFFF;
+}
+.medium ul li img{
+  width: 65px;
+  height: 65px;
+  margin-left: 15px;
 }
 * {
   margin: 0;
