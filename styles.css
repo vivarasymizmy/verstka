@@ -54,6 +54,7 @@
   background-color:  #5D5FEF;
 }
 .menu ul{
+  display: flex;
   list-style-type: none; 
   margin-top: 17px;
   margin-left: 113px;
