@@ -252,6 +252,8 @@ left: 98px;
 }
 
 .articles{
+width: 877px;
+height: 770px;
 table-layout: fixed;
 margin-top: 30px;
 margin-left: 113px;
