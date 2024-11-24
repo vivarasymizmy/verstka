@@ -249,8 +249,19 @@ width: 20px;
 height: 20px;
 top: 10px;
 left: 98px;
+}
 
+.articles{
+margin-top: 30px;
+margin-left: 113px;
+border-collapse: separate; 
+border-spacing: 29px,30px;
+}
 
+.articles td{
+  border:none;
+  border-radius: 10px;
+  background-color: #FFFFFF;
 }
 * {
   margin: 0;
