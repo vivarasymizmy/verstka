@@ -220,10 +220,11 @@ top: 425px;
 left: 223px; 
 }
 .Avatar{
+position: absolute;
 width: 45px;
 height: 45px;
-margin-top: 55px;
-margin-left: 55px;
+top: 55px;
+left: 55px;
 }
 .readmore{
 position: absolute;
