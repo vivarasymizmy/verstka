@@ -357,6 +357,11 @@ left: 18px;
 border-radius: 10px;
 border: none;
 background: #3DC47E;
+font-family: Lato;
+font-size: 12px;
+line-height: 15px;
+text-align: center;
+color: #FFFFFF;
 }
 * {
   margin: 0;
