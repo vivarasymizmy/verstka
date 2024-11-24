@@ -164,6 +164,7 @@
 .monttd{
   width: 877px; 
   height: 570px;
+  background-image: url('src/mount.png');
 }
 
 .mount{
