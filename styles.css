@@ -170,7 +170,14 @@
   background-position: center; 
   background-repeat: no-repeat; 
 }
-
+.monttd > p{
+  font-family: Lato;
+  font-size: 14px;
+  line-height: 20px;
+  text-align: left;
+  margin-left: 55px;
+  color: #FFFFFF;
+}
 .mount{
   width: 877px; 
   height: 570px;
@@ -217,12 +224,3 @@ border: none;
   width: 1366px;
 }
 
-width: 138px; */
-    /* height: 40px; */
-    /* margin-top: 430px;
-
-
-
-
-        /* margin-top: 425px; */
-    /* margin-left: 223px;
