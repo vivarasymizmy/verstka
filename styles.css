@@ -182,10 +182,11 @@
   background-color: #D9DADB;
 }
 .wPlay{
+position: absolute;
 width: 50px;
 height: 50px;
-padding-top: 425px;
-padding-left: 223px;
+top: 425px;
+left: 223px; 
 }
 .Avatar{
 width: 45px;
@@ -194,10 +195,11 @@ margin-top: 55px;
 margin-left: 55px;
 }
 .readmore{
+  position: absolute;
 width: 138px;
 height: 40px;
-margin-top: 430px;
-margin-left: 55px;
+top: 430px;
+left: 55px;
 /* //padding-left: 25px; */
 border-radius: 10px;
 background-color: #4592FF;
