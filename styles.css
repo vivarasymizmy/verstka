@@ -263,6 +263,9 @@ border-spacing: 29px 30px;
   border:none;
   border-radius: 10px;
   background-color: #FFFFFF;
+  overflow: hidden; /* Скрываем содержимое, которое выходит за пределы ячеек */
+  text-overflow: ellipsis; /* Добавляем многоточие для обрезанного текста */
+  white-space: nowrap; 
 }
 * {
   margin: 0;
