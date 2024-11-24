@@ -268,9 +268,7 @@ border-spacing: 29px 30px;
   text-overflow: ellipsis; /* Добавляем многоточие для обрезанного текста */
   white-space: nowrap; 
 }
-.articles td > img{
-  position:absolute;
-}
+
 .car{
   position:absolute;
   width: 292px;
@@ -279,24 +277,28 @@ border-spacing: 29px 30px;
   left: 263px;
 }
 .girl{
+position:absolute;
 width: 30px;
 height: 30px;
 top: 327px;
 left: 35px;
 }
 .comment{
+position:absolute;
 width: 15px;
 height: 15px;
 top: 335px;
 left: 479px;
 }
 .heart{
+position:absolute;
 width: 15px;
 height: 15px;
 top: 325px;
 left: 175px;
 }
 .cat{
+  position:absolute;
   width: 263px;
   height: 275px;
 }
