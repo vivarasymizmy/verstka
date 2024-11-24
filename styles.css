@@ -137,6 +137,7 @@
 }
 .firsttable td{
   background-color:  #FFFFFF;
+  border: none;
   border-bottom: 1px solid #D9DADB;
   height: 98px;
   padding: 0;
@@ -166,7 +167,7 @@
 
 .mount{
   width: 877px; 
-  height: 574,8px;
+  height: 570px;
   border-radius: 10px 0px 0px 10px;
 }
 .end{
