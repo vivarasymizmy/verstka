@@ -125,6 +125,7 @@
 }
 
 .firsttable{
+  table-layout: fixed;
   margin-left: 113px;
   margin-top: 30px;
   width: 1140px;
