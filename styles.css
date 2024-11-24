@@ -165,6 +165,9 @@
   width: 877px; 
   height: 570px;
   background-image: url('src/mount.png');
+  background-size: cover; 
+  background-position: center; 
+  background-repeat: no-repeat; 
 }
 
 .mount{
