@@ -126,9 +126,8 @@
 }
 
 .firsttable{
-  position: absolute;
-  left: 113px;
-  top: 380px;
+  margin-left: 113px;
+  padding-top: -285px;
   width: 1150px;
   height: 570px;
   border-spacing: 0;
@@ -167,7 +166,6 @@
   border-radius: 10px 0px 0px 10px;
 }
 .end{
-  position: relative;
   /* margin-top: -287px; */
   /* height: 1145px; */
   background-color: #D9DADB;
