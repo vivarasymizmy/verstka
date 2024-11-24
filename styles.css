@@ -348,6 +348,14 @@ left: 25px;
   background-position: center;
   background-repeat: no-repeat;
 }
+.popular{
+width: 66px;
+height: 25px;
+top: 18px;
+left: 18px;
+border-radius: 10px;
+border: none;
+}
 * {
   margin: 0;
   padding: 0;
