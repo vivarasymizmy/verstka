@@ -343,7 +343,10 @@ top: 125px;
 left: 25px;
 }
 .osobtd{
-  
+  background-image: url('src/hand.png'); /* Путь к изображению */
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
 }
 * {
   margin: 0;
