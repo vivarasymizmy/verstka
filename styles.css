@@ -140,6 +140,7 @@
   border-bottom: 1px solid #D9DADB;
   height: 99px;
   padding: 0;
+  overflow: hidden;
 }
 .firsttable td > p{
   width: 213px;
