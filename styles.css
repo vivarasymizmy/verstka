@@ -162,6 +162,7 @@
 
 
 .monttd{
+  position: relative;
   width: 877px; 
   height: 570px;
   background-image: url('src/mount.png');
@@ -206,6 +207,8 @@ font-size: 14px;
 line-height: 20px;
 text-align: left;
 font-weight: bold;
+position: relative; /* Для позиционирования относительно контейнера */
+z-index: 1; /* Чтобы кнопка была поверх других элементов */
 }
 * {
   margin: 0;
