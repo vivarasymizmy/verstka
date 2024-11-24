@@ -261,7 +261,6 @@ border-spacing: 29px 30px;
 
 .articles td{
   position: relative;
-  display: flex;
   border:none;
   border-radius: 10px;
   background-color: #FFFFFF;
@@ -269,7 +268,9 @@ border-spacing: 29px 30px;
   text-overflow: ellipsis; /* Добавляем многоточие для обрезанного текста */
   white-space: nowrap; 
 }
-
+.articles td p{
+  display: flex;
+}
 .car{
   position:absolute;
   width: 292px;
