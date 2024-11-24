@@ -165,7 +165,9 @@
   height: 570px;
   border-radius: 10px 0px 0px 10px;
 }
-
+.end{
+  background-color: #D9DADB;
+}
 * {
   margin: 0;
   padding: 0;
