@@ -190,7 +190,7 @@
   top: 245px;
   color:  #4592FF;
 }
-.monttd > p .singlname{
+p.singlname{
 position: absolute;
 top: 285px;
 left: 55px; 
