@@ -266,9 +266,9 @@ border-spacing: 29px 30px;
   background-color: #FFFFFF;
   overflow: hidden; /* Скрываем содержимое, которое выходит за пределы ячеек */
   text-overflow: ellipsis; /* Добавляем многоточие для обрезанного текста */
-  white-space: nowrap; 
 }
 .articles td p{
+  position: absolute;
   display: flex;
 }
 .car{
