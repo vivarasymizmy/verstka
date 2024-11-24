@@ -303,9 +303,34 @@ left: 175px;
   height: 275px;
   top: -0px;
 }
+.articles td p .tdtitle{
+font-family: Roboto Slab;
+font-size: 16px;
+font-weight: 700;
+text-align: left;
+line-height: 25px;
+color: #5D5FEF;
+}
+.articles td p .tdtext{
+font-family: Lato;
+font-size: 14px;
+line-height: 20px;
+text-align: left;
+color: #4B5157;
+}
+.articles td p .tdminitext{
+font-family: Lato;
+font-size: 12px;
+line-height: 15px;
+text-align: left;
+color: #939699;
+}
 * {
   margin: 0;
   padding: 0;
   width: 1366px;
 }
+
+
+
 
