@@ -171,6 +171,7 @@
   background-repeat: no-repeat; 
 }
 .monttd > p{
+  position: absolute;
   font-family: Lato;
   font-size: 14px;
   line-height: 20px;
@@ -179,19 +180,21 @@
   color: #FFFFFF;
 }
 .monttd > a{
+  position: absolute;
   text-decoration: none;
   font-family: Lato;
   font-size: 12px;
   line-height: 15px;
   letter-spacing: 0.5px;
   text-align: left;
-  margin-left: 55px;
-  margin-top: 245px;
+  left: 55px;
+  top: 245px;
   color:  #4592FF;
 }
 .singlname{
-margin-top: 285px;
-margin-left: 55px; 
+position: absolute;
+top: 285px;
+left: 55px; 
 font-family: Roboto Slab;
 font-size: 40px;
 line-height: 50px;
