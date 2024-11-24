@@ -195,12 +195,12 @@ margin-top: 55px;
 margin-left: 55px;
 }
 .readmore{
-  position: absolute;
+position: absolute;
 width: 138px;
 height: 40px;
 top: 430px;
 left: 55px;
-/* //padding-left: 25px; */
+padding-left: 25px;
 border-radius: 10px;
 background-color: #4592FF;
 font-family: Lato;
@@ -209,8 +209,7 @@ font-size: 14px;
 line-height: 20px;
 text-align: left;
 font-weight: bold;
-position: relative; /* Для позиционирования относительно контейнера */
-z-index: 1; /* Чтобы кнопка была поверх других элементов */
+border: none;
 }
 * {
   margin: 0;
