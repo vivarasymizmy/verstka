@@ -261,7 +261,6 @@ border-spacing: 29px 30px;
 }
 
 .articles td{
-  position:absolute;
   border:none;
   border-radius: 10px;
   background-color: #FFFFFF;
