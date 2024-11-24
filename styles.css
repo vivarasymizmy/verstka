@@ -261,12 +261,45 @@ border-spacing: 29px 30px;
 }
 
 .articles td{
+  position:absolute;
   border:none;
   border-radius: 10px;
   background-color: #FFFFFF;
   overflow: hidden; /* Скрываем содержимое, которое выходит за пределы ячеек */
   text-overflow: ellipsis; /* Добавляем многоточие для обрезанного текста */
   white-space: nowrap; 
+}
+.articles td > img{
+  position:absolute;
+}
+.car{
+  position:absolute;
+  width: 292px;
+  height: 299px;
+  top: 15px;
+  left: 263px;
+}
+.girl{
+width: 30px;
+height: 30px;
+top: 327px;
+left: 35px;
+}
+.comment{
+width: 15px;
+height: 15px;
+top: 335px;
+left: 479px;
+}
+.heart{
+width: 15px;
+height: 15px;
+top: 325px;
+left: 175px;
+}
+.cat{
+  width: 263px;
+  height: 275px;
 }
 * {
   margin: 0;
