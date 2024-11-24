@@ -89,7 +89,7 @@
 
 .medium{
   /* height: 475px; */
-  background: linear-gradient(to bottom, #5D5FEF 0px, #5D5FEF 475px, blue #D9DADB, blue #D9DADB);
+  background: linear-gradient(to bottom, #5D5FEF 0, #5D5FEF 475px, blue #D9DADB, blue #D9DADB);
   /* background-color:  #5D5FEF; */
   padding-top: 30px;
 }
