@@ -184,8 +184,8 @@
 .wPlay{
 width: 50px;
 height: 50px;
-margin-top: 425px;
-margin-left: 223px;
+padding-top: 425px;
+padding-left: 223px;
 }
 .Avatar{
 width: 45px;
@@ -216,3 +216,12 @@ z-index: 1; /* Чтобы кнопка была поверх других эле
   width: 1366px;
 }
 
+width: 138px; */
+    /* height: 40px; */
+    /* margin-top: 430px;
+
+
+
+
+        /* margin-top: 425px; */
+    /* margin-left: 223px;
