@@ -367,6 +367,7 @@ color: #FFFFFF;
 }
 
 div .blacklist{
+display: block;
 list-style-type: none;
 width: 263px;
 height: 770px;
@@ -375,13 +376,13 @@ background-color: #6E99AE;
 
 }
 
-.blacklist li{
+div .blacklist li{
   position: relative;
 }
-.blacklist li img{
+div .blacklist li img{
   position: absolute;
 }
-.blacklist li p{
+div .blacklist li p{
   position: absolute;
 }
 .quote{
@@ -408,13 +409,13 @@ height: 45px;
 top: 635px;
 left: 35px;
 }
-.blacklist li p title{
+div .blacklist li p title{
 font-family: Roboto Slab;
 font-size: 20px;
 line-height: 25px;
 text-align: left;
 }
-.blacklist li p text{
+div .blacklist li p text{
 font-family: Lato;
 font-size: 14px;
 line-height: 20px;
