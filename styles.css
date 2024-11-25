@@ -411,13 +411,13 @@ height: 45px;
 top: 635px;
 left: 35px;
 }
-div .blacklist li p title{
+div .blacklist li p .title{
 font-family: Roboto Slab;
 font-size: 20px;
 line-height: 25px;
 text-align: left;
 }
-div .blacklist li p text{
+div .blacklist li p .text{
 font-family: Lato;
 font-size: 14px;
 line-height: 20px;
