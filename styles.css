@@ -381,6 +381,7 @@ div .blacklist li{
 }
 div .blacklist li img{
   position: absolute;
+  margin-left: 0px;
 }
 div .blacklist li p{
   position: absolute;
