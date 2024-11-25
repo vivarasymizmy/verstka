@@ -367,10 +367,14 @@ color: #FFFFFF;
 }
 
 .blacklist{
+display: flex;
 width: 263px;
 height: 770px;
 margin-left: 990px;
+}
 
+.blacklist li{
+  position: relative;
 }
 
 * {
