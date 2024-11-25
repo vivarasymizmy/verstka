@@ -365,6 +365,14 @@ line-height: 15px;
 text-align: center;
 color: #FFFFFF;
 }
+
+.blacklist{
+width: 263px;
+height: 770px;
+margin-left: 990px;
+
+}
+
 * {
   margin: 0;
   padding: 0;
