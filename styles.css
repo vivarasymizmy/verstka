@@ -389,10 +389,11 @@ div .blacklist li p{
   margin-left: 0px;
 }
 div .blacklist .quote{
-width: 40px;
-height: 40px;
-left: 25px;
-top:35px;
+  width: 40px;
+  height: 40px;
+  top: 95px;
+  left: 25px;
+  opacity: 0.75;
 }
 div .blacklist .boy{
 width: 45px;
