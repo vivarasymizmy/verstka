@@ -384,6 +384,7 @@ div .blacklist li img{
 }
 div .blacklist li p{
   position: absolute;
+  margin-left: 0px;
 }
 .quote{
 width: 40px;
