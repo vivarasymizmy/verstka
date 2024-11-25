@@ -106,6 +106,7 @@
 .medium ul li{
   display: flex;
   width:259px;
+  height: 75px;
   margin-left: 25px;
   text-align: left;
   font-family: Roboto Slab;
