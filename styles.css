@@ -380,6 +380,7 @@ margin-top: -800px;
 
 div .blacklist li{
   border-bottom: 1px solid #D1E2EB;
+  border-right: none;
 }
 div .blacklist li img{
   position: absolute;
