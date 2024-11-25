@@ -382,7 +382,7 @@ div .blacklist li{
   border-bottom: 1px solid #B4D1E0;
   border-right: none;
   margin-left: 0px;
-  border-width: 213px;
+  /* border-width: 213px; */
 }
 div .blacklist li img{
   position: absolute;
