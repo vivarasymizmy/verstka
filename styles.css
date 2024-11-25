@@ -376,7 +376,49 @@ margin-left: 990px;
 .blacklist li{
   position: relative;
 }
-
+.blacklist li img{
+  position: absolute;
+}
+.blacklist li p{
+  position: absolute;
+}
+.quote{
+width: 40px;
+height: 40px;
+left: 25px;
+top:35px;
+}
+.boy{
+width: 45px;
+height: 45px;
+top: 195px;
+left: 35px;
+}
+.winter{
+width: 45px;
+height: 45px;
+top: 415px;
+left: 35px;
+}
+.half{
+width: 45px;
+height: 45px;
+top: 635px;
+left: 35px;
+}
+.blacklist li p title{
+font-family: Roboto Slab;
+font-size: 20px;
+line-height: 25px;
+text-align: left;
+}
+.blacklist li p text{
+font-family: Lato;
+font-size: 14px;
+line-height: 20px;
+letter-spacing: 0.5px;
+text-align: left;
+}
 * {
   margin: 0;
   padding: 0;
