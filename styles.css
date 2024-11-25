@@ -386,25 +386,25 @@ div .blacklist li p{
   position: absolute;
   margin-left: 0px;
 }
-.quote{
+div .blacklist .quote{
 width: 40px;
 height: 40px;
 left: 25px;
 top:35px;
 }
-.boy{
+div .blacklist .boy{
 width: 45px;
 height: 45px;
 top: 195px;
 left: 35px;
 }
-.winter{
+div .blacklist .winter{
 width: 45px;
 height: 45px;
 top: 415px;
 left: 35px;
 }
-.half{
+div .blacklist .half{
 width: 45px;
 height: 45px;
 top: 635px;
