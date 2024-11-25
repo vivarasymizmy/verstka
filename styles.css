@@ -378,7 +378,9 @@ background-color: #6E99AE;
 margin-top: -800px;
 }
 
-
+div .blacklist{
+  border-bottom: 1px solid #D1E2EB;
+}
 div .blacklist li img{
   position: absolute;
   margin-left: 0px;
