@@ -267,8 +267,8 @@ border-spacing: 29px 30px;
   border:none;
   border-radius: 10px;
   background-color: #FFFFFF;
-  overflow: hidden; /* Скрываем содержимое, которое выходит за пределы ячеек */
-  text-overflow: ellipsis; /* Добавляем многоточие для обрезанного текста */
+  overflow: hidden;
+  text-overflow: ellipsis; 
 }
 .articles td p{
   position: absolute;
@@ -346,7 +346,7 @@ top: 125px;
 left: 25px;
 }
 .osobtd{
-  background-image: url('src/hand.png'); /* Путь к изображению */
+  background-image: url('src/hand.png'); 
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -378,9 +378,7 @@ background-color: #6E99AE;
 margin-top: -800px;
 }
 
-div .blacklist li{
-  
-}
+
 div .blacklist li img{
   position: absolute;
   margin-left: 0px;
