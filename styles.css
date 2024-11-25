@@ -414,6 +414,7 @@ top: 635px;
 left: 35px;
 }
 div .blacklist  .title{
+display: flex;
 font-family: Roboto Slab;
 font-size: 20px;
 line-height: 25px;
