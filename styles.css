@@ -367,7 +367,7 @@ color: #FFFFFF;
 }
 
 .blacklist{
-display: flex;
+list-style-type: none;
 width: 263px;
 height: 770px;
 margin-left: 990px;
